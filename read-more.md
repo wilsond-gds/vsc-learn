@@ -7,3 +7,5 @@ I have switched to a different branch and added more content to this file!
 Both files have the same content on both branches?
 
 I am going to add this code and checkout this branch.
+
+I am going to add more code and then go to the other branch.
