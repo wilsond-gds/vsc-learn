@@ -1,0 +1,9 @@
+# This is another file
+
+It has more content in it. Brilliant!
+
+I have switched to a different branch and added more content to this file!
+
+Both files have the same content on both branches?
+
+I am going to add this code and checkout this branch.
